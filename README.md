@@ -50,23 +50,30 @@ Als het scherm kleiner wordt, willen we dat de blokken op de volgende regel wrap
 Je gaat de landingspagina van een bedrijfswebsite bouwen. Deze zal er uiteindelijk zo uit komen te zien:
 
 ### Eindresultaat
+#### Breed scherm
 ![desktop layout large](opdracht-2-3/assets/screenshot-large-body.png)
+#### Smaller scherm
 ![desktop layout small](opdracht-2-3/assets/screenshot-small-body.png)
+
+Dit keer maak je de HTML echter zelf. Denk dus goed na over elementen die je wellicht moet gebruiken als groepperende container.
 
 ### Randvoorwaarden
 * De kleuren die gebruikt zijn komen uit [dit palet](https://coolors.co/151e3f-030027-f2f3d9-dc9e82-c16e70). Het lettertype mag je zelf uitkiezen.
 * De titels hebben we er alvast ingezet, maar de andere elementen mag je zelf maken. Je gaat nu dus zowel aan de slag in het CSS-bestand, als in het HTML-bestand.
-* Zorg dat in ieder blauw blok een `<p>`-element zit met daarin 30 woorden. Deze tekst moet altijd aan de onderkant van het blok staan. Deze blauwe blokken mogen maximaal 280 pixels breed worden en evenredig krimpen als er minder ruimte beschikbaar is. Ze moeten altijd `350px` hoog zijn.
-* Zorg dat alle tekst in het midden is uitgelijnt.
-* Je hoeft geen gebruik te maken van media-queries.
+* Zorg dat in ieder rood blok een element is, met daarin een `<p>`-element van 30 woorden. Deze tekst moet altijd aan de onderkant van het blok staan. Deze rode blokken mogen maximaal 280 pixels breed worden en evenredig krimpen als er minder ruimte beschikbaar is. Ze moeten altijd `350px` hoog zijn.
+* Zorg dat alle tekst op de pagina in het midden is uitgelijnt.
+* Let op: je hoeft geen gebruik te maken van media-queries.
 
 ## Opdracht 3 - Navigatie
-Je gaat de landingspagina uit opdracht 2 uitbreiden met een navigatiebalk. Dit zal er uiteindelijk zo uit komen te zien:
+De landingspagina is zo goed als af! Je gaat deze pagina nu uitbreiden met een navigatiebalk. Dit doe je uiteraard in hetzelfde bestand. Deze navigatiebalk staat boven de rest van de content en ziet er zo uit:
 
 ### Eindresultaat
+#### Breed scherm
 ![desktop layout large](opdracht-2-3/assets/screenshot-large.png)
+#### Smaller scherm
 ![desktop layout small](opdracht-2-3/assets/screenshot-small.png)
 
 ### Randvoorwaarden
-* Je hoeft geen gebruik te maken van media-queries.
+* De content staat altijd 40 pixels van de rand van het scherm af, zowel in de navigatiebalk als op de pagina zelf.
+* Let op: je hoeft geen gebruik te maken van media-queries.
 
