@@ -2,7 +2,7 @@
 
 ## Opdracht 1 - Kleine flexbox oefeningen
 
-De styling voor de elementen in `index.html` (map `/opdracht-2`) is nog niet helemaal af. Er is namelijk nog helemaal geen flexbox toegepast! Bekijk de HTML eens goed en gebruik het CSS bestand `styles.css` (in dezelfde map) om de elementen er net zo uit te laten zien als het eindresultaat hieronder.
+De styling voor de elementen in `index.html` (map `/opdracht-1`) is nog niet helemaal af. Er is namelijk nog helemaal geen flexbox toegepast! Bekijk de HTML eens goed en gebruik het CSS bestand `styles.css` (in dezelfde map) om de elementen er net zo uit te laten zien als het eindresultaat hieronder.
 
 ### Aandachtspunten
 
