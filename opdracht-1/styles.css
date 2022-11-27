@@ -3,3 +3,11 @@
 ========================================================= */
 
 /* Schrijf hier  jouw CSS! */
+
+div {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
