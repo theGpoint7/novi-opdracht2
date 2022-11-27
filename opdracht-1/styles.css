@@ -11,3 +11,19 @@ div {
     justify-content: flex-end;
 
 }
+
+.two {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.two1 {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
