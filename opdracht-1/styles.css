@@ -3,8 +3,13 @@
 ========================================================= */
 
 /* Schrijf hier  jouw CSS! */
+/* * {
 
-div {
+    font-family: Algerian;
+
+} */
+
+.one {
 
     display: flex;
     flex-direction: column;
@@ -20,10 +25,46 @@ div {
 
 }
 
-.two1 {
+.three  {
 
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 
 }
 
+.three ul {
+
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 75px;
+
+}
+
+.four {
+
+    /* border: solid red 1px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   }
+
+.four2{
+
+    /* border: solid darkgreen 1px; */
+    display: flex;
+    justify-content: center;
+
+}
+
+.four1 {
+
+    /* border: solid 2px orange; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
